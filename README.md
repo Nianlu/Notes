@@ -1,3 +1,3 @@
 # Notes
 
-I am saving the notes here while I am reading books or learning stuff.
+The notes here are took while I am reading books or learning stuff.
